@@ -7,3 +7,5 @@ class App < Sinatra::Base
     @result
   end
 end
+
+class Main < Sinatra::Base
