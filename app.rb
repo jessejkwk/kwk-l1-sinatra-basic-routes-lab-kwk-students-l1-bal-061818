@@ -9,3 +9,4 @@ class App < Sinatra::Base
 end
 
 class Main < Sinatra::Base
+  get 's'
